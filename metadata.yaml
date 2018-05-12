@@ -16,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
 description: v. 1. Letters of Marque.--v.2. Letters of travel. American notes.--v.3.
   American notes. City of dreadful night.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32977#From-Sea-to-Sea--Letters-of-Travel
 gutenberg_issued: '2010-06-25'
 gutenberg_type: Text
 identifiers:
